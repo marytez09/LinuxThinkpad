@@ -1,3 +1,3 @@
-# Omarchy Linux Installation Process
+# Linux Installation Process
 ## What you need
 ## Process

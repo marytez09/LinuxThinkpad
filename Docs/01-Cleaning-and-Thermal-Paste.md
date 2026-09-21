@@ -5,10 +5,19 @@
 (All screws were removed with a Phillip Screwdriver)
 - Flipped over computer and removed back screws 
 
-![Disassembly-01](/Images/Cleaning-and-Thermal-Paste/IMG_2235.jpg)
+[Removed Screws](/Images/Cleaning-and-Thermal-Paste/IMG_2235.jpg)
 
 - Flipped computer back around, slide keyboard upwards and remove keyboard ribbon
     - Removed trackpad ribbon (flipped white switch upwards)
+
+[Keyboard Ribbon](/Images/Cleaning-and-Thermal-Paste/IMG_2236.jpg)
+
+[Keyboard Ribbon Removed](/Images/Cleaning-and-Thermal-Paste/IMG_2237.jpg)
+
+- Removed the Base Panel (trackpad) and disconnected ribbon.
+
+[Base Panel Ribbon](/Images/Cleaning-and-Thermal-Paste/IMG_2238.jpg)
+[Base Panel Removed](/Images/Cleaning-and-Thermal-Paste/IMG_2239.jpg)
 
 - Unplugged display ribbon
 

@@ -1,22 +1,24 @@
 # Full Disassembly and Thermal Paste Re-application 
-## SAFTEY!! Remove power cable and battery before manipulating components
+## SAFETY!! Remove power cable and battery before manipulating components
 
 ## Full Disassembly Process
 (All screws were removed with a Phillip Screwdriver)
 - Flipped over computer and removed back screws 
-![Disassembly-01](Images/Cleaning-and-Thermal-Paste/IMG_2235.jpg)
+
+![Disassembly-01](..Images/Cleaning-and-Thermal-Paste/IMG_2235.jpg)
+
 - Flipped computer back around, slide keyboard upwards and remove keyboard ribbon
     - Removed trackpad ribbon (flipped white switch upwards)
 
 - Unplugged display ribbon
 
-- Unplugged antenna cables black wire (AUX) & grey wire (MAIN)
+- Unplugged antenna cables black wire (AUX) & gray wire (MAIN)
 
 - Unscrewed WLAN card and remove
 
 - Unscrewed plastic plate (2 screws) and remove plastic covering
 
-- Unscrewed bluetooth module
+- Unscrewed blue-tooth module
 
 - Unplugged speaker cable
 

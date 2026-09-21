@@ -5,7 +5,7 @@
 (All screws were removed with a Phillip Screwdriver)
 - Flipped over computer and removed back screws 
 
-![Disassembly-01](Images/Cleaning-and-Thermal-Paste/IMG_2235.jpg)
+![Disassembly-01](Docs/Images/Cleaning-and-Thermal-Paste/IMG_2235.jpg)
 
 - Flipped computer back around, slide keyboard upwards and remove keyboard ribbon
     - Removed trackpad ribbon (flipped white switch upwards)
